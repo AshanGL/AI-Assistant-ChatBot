@@ -25,6 +25,7 @@
 
 #### 02. Ollama users
 <img src="./Images/ollama_log.png" alt="ollama_logo" width="220" height="220" />
+
 - Download and install the Ollama LLM Server from the Ollama website. [GitHub](https://ollama.com/)
 - Follow the installation guide for your operating system.
 
