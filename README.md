@@ -15,3 +15,17 @@
 
 
 ![Chat Interface (Main)](./Images/01.JPG)
+
+
+### **Before Use:** 
+#### 01. Groq users
+![groq_logo](./Images/groq_logo.jpg)
+- Visit the Groq website and sign up or log in. [GitHub](https://console.groq.com/playground)
+- Navigate to the API section and generate an API key. (Keep your API key)
+
+#### 02. Ollama users
+![ollama_logo](./Images/ollama.png)
+- Download and install the Ollama LLM Server from the Ollama website. [GitHub](https://ollama.com/)
+- Follow the installation guide for your operating system.
+
+
