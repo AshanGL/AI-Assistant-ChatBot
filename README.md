@@ -59,13 +59,16 @@ NOTE: you can copy it and past anywhere!
 
 -  #### Auth_Key: abghjAjhshdygsg14547764sa5sdd4
 
+
 -Finally! Press "Register" button.
+
 
 ### **Login**
 - Login with your created account.
 Example:
 
 ![loginagain](./Images/06.JPG)
+
 
 -After succsessfully login, it will navigate to main ChatBot UI.
 
