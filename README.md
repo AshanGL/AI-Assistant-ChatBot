@@ -154,7 +154,7 @@ Example:
 ![tenxtint](./Images/11.JPG)
 
 
-#### Voice Model
+#### Voice Mode
 
 ![tenxtint](./Images/12.JPG)
 
