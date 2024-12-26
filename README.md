@@ -24,7 +24,7 @@
 - Navigate to the API section and generate an API key. (Keep your API key)
 
 #### 02. Ollama users
-<img src="./Images/ollama_log.png" alt="ollama_logo" width="150" height="150" />
+<img src="./Images/ollama_log.png" alt="ollama_logo" width="220" height="220" />
 - Download and install the Ollama LLM Server from the Ollama website. [GitHub](https://ollama.com/)
 - Follow the installation guide for your operating system.
 
