@@ -6,12 +6,22 @@
 ### Features
 - 🗒️ Chat with your documents (PDFs).
 - 🔊 Real-time voice recognition.
-- 🧠 Intelligent memory management.
+- 💾 Intelligent memory management.
+- 🧠 Contextual Understanding.
 - 🎨 Interactive and appealing GUI.
-- 🦾 Custormizable.
+- ⚙️ Customizable Parameters.
+- 🌐 Model Integration (Supports APIs for Groq and Ollama, offering access to advanced AI language models for response generation.).
+- 🔒 Secure API Management
 - 🤖 User Friendly and Easy to use.
 
 
+
+### Applications
+- 🤖 Personal assistant for day-to-day tasks.
+- 📄 Document-based query resolution and management.
+- 🎓 Research assistant for educational or professional purposes.
+- 🗂️ Contextual memory retrieval for team collaborations.
+- 🛠️ Problem Solvings.
 
 
 ![Chat Interface (Main)](./Images/01.JPG)
@@ -155,5 +165,36 @@ Example:
 
 
 ![tenxtint](./Images/13.JPG)
+
+
+
+
+
+
+
+
+### Technologies Used
+
+- Python
+- Tkinter
+- Groq API
+- Ollama LLM
+- LangChain
+- PyPDF2
+- HuggingFace Embeddings
+- Sentence Transformers
+- SpeechRecognition & pyttsx3
+- NumPy & SciKit-Learn
+-  ... ect
+
+
+### Acknowledgments
+
+I would like to extend my gratitude to the following platforms and tools that made this project possible:
+- Groq: For providing cutting-edge APIs and state-of-the-art language models.
+- Ollama: For delivering robust and flexible AI models that enhance local processing.
+- LangChain Community: For their powerful tools and frameworks to build AI applications.
+- Python Community: For the open-source libraries that make development efficient and powerful.
+
 
 
