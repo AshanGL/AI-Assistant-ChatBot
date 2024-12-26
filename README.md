@@ -20,13 +20,19 @@
 ### **Before Use:** 
 #### 01. Groq users
 ![groq_logo](./Images/groq_logo.jpg)
-- Visit the Groq website and sign up or log in. [GitHub](https://console.groq.com/playground)
+- Visit the Groq website and sign up or log in. [Groq Website](https://console.groq.com/playground)
 - Navigate to the API section and generate an API key. (Keep your API key)
 
 #### 02. Ollama users
 <img src="./Images/ollama_log.png" alt="ollama_logo" width="220" height="220" />
 
-- Download and install the Ollama LLM Server from the Ollama website. [GitHub](https://ollama.com/)
+- Download and install the Ollama LLM Server from the Ollama website. [Ollama Website](https://ollama.com/)
 - Follow the installation guide for your operating system.
 
 
+## **How to Use:** 
+
+### **Installation**
+- Download "AI_Assistant_ChatBot" Zip file from this repository.
+- Extract downloaded file into your local computer drive C: (Drive C)
+![extract file](./Images/02.JPG)
