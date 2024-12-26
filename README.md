@@ -32,7 +32,7 @@
 
 ## **How to Use:** 
 
-### **Installation**
+### **01. Installation**
 - Download "AI_Assistant_ChatBot" Zip file from this repository.
 - Extract downloaded file into your local computer drive C: (Drive C)
 
@@ -46,7 +46,7 @@ NOTE: you can copy it and past anywhere!
 
 
 
-### **Register**
+### **02. Register**
 - Click on "Register" button on Login page.
 
 ![loginclick](./Images/04.JPG)
@@ -63,7 +63,7 @@ NOTE: you can copy it and past anywhere!
 - Finally! Press "Register" button.
 
 
-### **Login**
+### **03. Login**
 - Login with your created account.
 
 Example:
@@ -74,6 +74,86 @@ Example:
 - After succsessfully login, it will navigate to main ChatBot UI.
 
 
-### **Create DB**
-#### **Upload Files**
-- Click on Add files
+### **04. Create DB**
+#### **(i) Upload Files**
+- Click on "Add Files" Button and select your documents.
+
+##### Note: Currently Support, only for PDF files.
+
+- Click on "Save" button and it will save your PDFs in "doc" folder.
+
+
+#### **(ii) Create DB**
+
+- Click "Vect-Stores" button and it will open new window.
+- Choose Chunk size and Chunk overlap settings.
+- Then click "Create DB" button.
+
+
+![dbcrea](./Images/07.JPG)
+
+##### Note: If you already have a vector-db, you need to delete existing db and make new one.
+
+
+
+### **05. Model Engine (selection)**
+#### Currently this application support for both Ollama and Groq.
+
+- You can select Ollama or Groq.
+- If you wish to use to use Ollama, please refer Ollama installation.
+- Before using the Groq, click on "Groq Setup" Button.
+- Paste you Groq API key into textbox.
+
+![growsetup](./Images/08.JPG)
+
+- Then click "Save" button and select "Groq" from model engine dropdown menu.
+
+
+### **06. Parameter setup**
+
+![growsetup](./Images/09.JPG)
+
+
+- Click on "Gen-Param" button.
+- You can change Temperature, Top-p and Top-k.
+- Click "Save" button.
+
+
+### **07. Change Role**
+
+- You can change Role of the bot.
+- For do this open your "AI_Assistant_ChatBot" folder.
+- Find "system_prompt.txt" file and change it.
+- Save system_prompt.txt file.
+
+
+### **08. Chat**
+
+- Implemented with both text and voice inputs.
+
+#### Text input field
+
+![tenxtint](./Images/10.JPG)
+
+- Click "Submit" button to pass the input prompt.
+- Use "Clear" button to clear the chat display.
+
+
+##### Chat Display
+
+![tenxtint](./Images/11.JPG)
+
+
+#### Voice Model
+
+![tenxtint](./Images/12.JPG)
+
+
+- Click "Activate" button under the Voice Mode.
+- For Deactivate it, Click again.
+
+
+
+![tenxtint](./Images/13.JPG)
+
+
