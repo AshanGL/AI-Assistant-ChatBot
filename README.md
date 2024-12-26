@@ -9,4 +9,9 @@
 - 🧠 Intelligent memory management.
 - 🎨 Interactive and appealing GUI.
 - 🦾 Custormizable.
-- 🤖 User Friendly
+- 🤖 User Friendly and Easy to use.
+
+
+
+
+![Alt Text](./Images/01.JPG)
