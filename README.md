@@ -35,20 +35,25 @@
 ### **Installation**
 - Download "AI_Assistant_ChatBot" Zip file from this repository.
 - Extract downloaded file into your local computer drive C: (Drive C)
+
 ![extract file](./Images/02.JPG)
 
 - Open AI_Assistant_ChatBot folder and Double Click on "ChatBot" shortcut.
+
 ![shortcut icon](./Images/03.JPG)
+
 NOTE: you can copy it and past anywhere!
 
 
 
 ### **Register**
 - Click on "Register" button on Login page.
+
 ![loginclick](./Images/04.JPG)
 
 - It will open "Registration" page as below:
-  ![register](./Images/05.JPG)
+
+![register](./Images/05.JPG)
 
 - All text fields are required.
 
@@ -59,6 +64,7 @@ NOTE: you can copy it and past anywhere!
 ### **Login**
 - Login with your created account.
 Example:
+
 ![loginagain](./Images/06.JPG)
 
 -After succsessfully login, it will navigate to main ChatBot UI.
