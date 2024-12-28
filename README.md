@@ -43,7 +43,7 @@
 ## **How to Use:** 
 
 ### **01. Installation**
-- Download "AI_Assistant_ChatBot" Zip file from this repository.
+- Download "AI_Assistant_ChatBot" Zip file. For download, click here >>> [Zip file](https://example.com)
 - Extract downloaded file into your local computer drive C: (Drive C)
 
 ![extract file](./Images/02.JPG)
@@ -110,7 +110,7 @@ Example:
 #### Currently this application support for both Ollama and Groq.
 
 - You can select Ollama or Groq.
-- If you wish to use to use Ollama, please refer Ollama installation.
+- If you wish to use Ollama, please refer Ollama installation.
 - Before using the Groq, click on "Groq Setup" Button.
 - Paste you Groq API key into textbox.
 
