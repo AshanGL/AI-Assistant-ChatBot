@@ -43,7 +43,7 @@
 ## **How to Use:** 
 
 ### **01. Installation**
-- Download "AI_Assistant_ChatBot" Zip file. For download, click here >>> [Zip file](https://example.com)
+- Download "AI_Assistant_ChatBot" Zip file. For download, click here >>> [Zip file]([https://example.com](https://drive.google.com/file/d/1QdW0_gdIq96w0DzlU93kwQCBiEG6yUOU/view?usp=sharing))
 - Extract downloaded file into your local computer drive C: (Drive C)
 
 ![extract file](./Images/02.JPG)
