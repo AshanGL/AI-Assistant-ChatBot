@@ -52,7 +52,7 @@
 
 ![shortcut icon](./Images/03.JPG)
 
-NOTE: you can copy it and past anywhere!
+NOTE: you can copy it and paste anywhere!
 
 
 
